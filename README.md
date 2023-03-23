@@ -4,6 +4,8 @@ This repository contains the observations of Orthoptera and associated metadata,
 
 These data were originally entered using a [Python / Django application](https://github.com/jen-thomas/wildlife-observations/releases/tag/v0.0.1) and stored in a MySQL database. They were [analysed using _R_](https://github.com/jen-thomas/orthoptera-elevational-range-community-composition). The final publication which uses these data will be available shortly.  
 
+The initial release of this dataset is available on Zenodo with the DOI: [10.5281/zenodo.7763503](https://doi.org/10.5281/zenodo.7763503).
+
 ## Data files
 
 * ```observations.csv``` contains all sightings of Orthoptera. 
