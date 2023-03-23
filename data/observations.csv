@@ -1,0 +1,1631 @@
+specimen_label,site_name,date_cest,method,method_repeat,sex,stage,id_confidence,suborder,family,subfamily,genus,species
+TAV06 20211006 H1 C001,TAV06,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20211006 H1 C001,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV06 20211006 H1 C005,TAV06,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20211006 H1 C006,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20211006 H1 C006,TAV08,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20211006 H1 C019,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20211006 H1 C003,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20211006 H1 C018,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR04 20211005 H1 C014,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR04 20211005 N2 C004,TOR04,2021-10-05,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20211006 H1 C017,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20211006 H1 C005,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TOR04 20211005 N1 C003,TOR04,2021-10-05,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Melanoplinae,Cophopodisma,Cophopodisma pyrenaea
+TOR03 20210919 N2 C003,TOR03,2021-09-19,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Melanoplinae,Cophopodisma,Cophopodisma pyrenaea
+TOR05 20211005 N1 C001,TOR05,2021-10-05,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR09 20211005 H1 C008,TOR09,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR07 20210919 N1 C001,TOR07,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 N1 C002,TOR07,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 N1 C003,TOR07,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 N1 C005,TOR07,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR07 20210919 N1 C006,TOR07,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 N1 C007,TOR07,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 N1 C008,TOR07,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR04 20210919 N1 C001,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C002,TOR04,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C003,TOR04,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C004,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C005,TOR04,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C006,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C007,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C009,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C010,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C012,TOR04,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C013,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C014,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C016,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C017,TOR04,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C018,TOR04,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR04 20210919 N1 C019,TOR04,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR02 20210919 N1 C002,TOR02,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,
+TOR02 20210919 N1 C003,TOR02,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus vagans
+TOR02 20210919 N1 C004,TOR02,2021-09-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR02 20210919 N1 E001,TOR02,2021-09-19,Net,1,Male,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Pholidoptera,Pholidoptera griseoaptera
+TOR02 20210919 N1 E002,TOR02,2021-09-19,Net,1,Male,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+TOR02 20210919 N1 E003,TOR02,2021-09-19,Net,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+TOR02 20210919 N1 E004,TOR02,2021-09-19,Net,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+TOR02 20210919 N1 E005,TOR02,2021-09-19,Net,1,Unknown,Unknown,Confirmed,Ensifera,,,,
+TOR09 20210919 N1 C001,TOR09,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR09 20210919 N1 C002,TOR09,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR09 20210919 N1 C003,TOR09,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR09 20210919 N1 C004,TOR09,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR09 20210919 N1 C005,TOR09,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210919 N1 C006,TOR09,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR09 20210919 N1 C007,TOR09,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210919 N1 C009,TOR09,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210919 N1 C010,TOR09,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR07 20210919 H1 C001,TOR07,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR07 20210919 H1 C002,TOR07,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR07 20210919 H1 C003,TOR07,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 H1 C004,TOR07,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 H1 C005,TOR07,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 H1 C006,TOR07,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 H1 C007,TOR07,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C004,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C005,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C006,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C007,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C008,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C009,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C010,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C011,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C012,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C013,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C014,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C015,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C016,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C017,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C018,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C019,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C022,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C024,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C025,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 H1 C026,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR09 20211005 N1 C001,TOR09,2021-10-05,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20211005 N1 C003,TOR09,2021-10-05,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+MOL06 20211002 H1 C001,MOL06,2021-10-02,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+MOL06 20211002 H1 C002,MOL06,2021-10-02,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL06 20211002 H1 C005,MOL06,2021-10-02,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+MOL06 20211002 H1 C007,MOL06,2021-10-02,Hand,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL06 20211002 H1 C008,MOL06,2021-10-02,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL06 20211002 H1 E001,MOL06,2021-10-02,Hand,1,Male,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+TOR08 20211005 H1 C001,TOR08,2021-10-05,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+TOR08 20211005 H1 C003,TOR08,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TOR03 20210919 H1 C001,TOR03,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TOR03 20210919 H1 C002,TOR03,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TOR03 20210919 H1 C003,TOR03,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TOR03 20210919 H1 C005,TOR03,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TOR03 20210919 H1 C006,TOR03,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+BES01 20211004 H1 C003,BES01,2021-10-04,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,Calliptamus italicus
+BES01 20211004 H1 C005,BES01,2021-10-04,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES01 20211004 H1 C006,BES01,2021-10-04,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES01 20211004 H1 C007,BES01,2021-10-04,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES01 20211004 H1 C008,BES01,2021-10-04,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES01 20211004 H1 C010,BES01,2021-10-04,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,Euchorthippus elegantulus
+TOR09 20210919 H1 C001,TOR09,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR09 20210919 H1 C008,TOR09,2021-09-19,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210919 H1 C009,TOR09,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+MOL06 20211002 N1 C005,MOL06,2021-10-02,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Psophus,Psophus stridulus
+TOR07 20210919 H1 C009,TOR07,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C008,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 N2 C003,TOR04,2021-10-05,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C004,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 H1 C014,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 H1 C012,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 H1 C013,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 H1 C016,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR05 20211005 H1 C007,TOR05,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+MOL03 20211002 N2 C001,MOL03,2021-10-02,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TOR06 20210919 N1 C002,TOR06,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR06 20210919 H1 C002,TOR06,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL04 20211002 H1 C002,MOL04,2021-10-02,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL08 20211002 N1 C001,MOL08,2021-10-02,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL06 20211002 N1 C004,MOL06,2021-10-02,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR08 20210919 N1 C002,TOR08,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV07 20211006 H1 C001,TAV07,2021-10-06,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C015,TOR04,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 N2 C007,TOR04,2021-10-05,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20211005 H1 C004,TOR05,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20211005 N1 C002,TOR05,2021-10-05,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR09 20210919 N1 C011,TOR09,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR04 20211005 H1 C011,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C009,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C002,TOR04,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C013,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR06 20211005 H1 C001,TOR06,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR06 20210919 H1 C001,TOR06,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR06 20210919 N2 C001,TOR06,2021-09-19,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR02 20210919 H1 E001,TOR02,2021-09-19,Hand,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+TOR06 20210919 H1 C005,TOR06,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV07 20211006 H1 C002,TAV07,2021-10-06,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR09 20211005 H1 C003,TOR09,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+MOL06 20211002 N1 C001,MOL06,2021-10-02,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20211005 H1 C002,TOR09,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20211005 H1 C004,TOR09,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 N1 C006,TAV09,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus albomarginatus
+TAV09 20211006 H1 C020,TAV09,2021-10-06,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus albomarginatus
+TOR09 20211005 H1 C007,TOR09,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20211005 H1 C006,TOR09,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR06 20211005 H1 C004,TOR06,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR06 20211005 N1 C003,TOR06,2021-10-05,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 H1 C011,TAV09,2021-10-06,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 H1 C002,TAV09,2021-10-06,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV09 20211006 H1 C022,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR05 20211005 H1 C009,TOR05,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20211006 N1 C014,TAV09,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20211006 N1 C010,TAV09,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR04 20211005 H1 C016,TOR04,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR09 20211005 H1 C001,TOR09,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV06 20211006 H1 C003,TAV06,2021-10-06,Hand,1,Unknown,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV08 20211006 H1 C001,TAV08,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 N1 C001,TAV09,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 N1 C015,TAV09,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20211005 H1 C002,TOR05,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20211005 H1 C008,TOR05,2021-10-05,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR03 20210919 N2 C001,TOR03,2021-09-19,Net,2,Unknown,Unknown,Confirmed,Caelifera,,,,
+MOL05 20211002 N2 C001,MOL05,2021-10-02,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+BES02 20211004 H1 C001,BES02,2021-10-04,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Sphingonotus,Sphingonotus azurescens
+TAV06 20211006 H1 C004,TAV06,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR02 20211004 N1 C004,TOR02,2021-10-04,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus jacobsi
+TOR06 20211005 H1 C005,TOR06,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR06 20211005 H1 C003,TOR06,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR06 20210919 H1 C004,TOR06,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR06 20210919 H1 C003,TOR06,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 N1 C002,TOR04,2021-10-05,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 N1 C006,TOR04,2021-10-05,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 N2 C001,TOR04,2021-10-05,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 N2 C009,TOR04,2021-10-05,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 N1 C005,TOR04,2021-10-05,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C003,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C004,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C001,TOR04,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 H1 C003,TAV08,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 H1 C005,TAV08,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 H1 C004,TAV08,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C010,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C011,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C008,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C014,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C015,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C005,TAV08,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C012,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C007,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV09 20211006 H1 C021,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20211006 N1 C013,TAV09,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TOR04 20211005 N2 C006,TOR04,2021-10-05,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR04 20211005 N2 C005,TOR04,2021-10-05,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20211006 N1 C011,TAV09,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus albomarginatus
+TAV09 20211006 N1 C007,TAV09,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20211006 N1 C002,TAV09,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus albomarginatus
+MOL04 20211002 N1 C001,MOL04,2021-10-02,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus lineatus
+MOL09 20211002 N1 C001,MOL09,2021-10-02,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TOR05 20211005 N1 C003,TOR05,2021-10-05,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR05 20211005 H1 C005,TOR05,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR05 20211005 H1 C001,TOR05,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TOR10 20211004 H1 C003,TOR10,2021-10-04,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR05 20211005 H1 C003,TOR05,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV09 20211006 N1 C004,TAV09,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TOR07 20211005 N1 C001,TOR07,2021-10-05,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR06 20211005 N1 C002,TOR06,2021-10-05,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL08 20211002 H1 C001,MOL08,2021-10-02,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL08 20211002 H1 C002,MOL08,2021-10-02,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR02 20211004 N1 C001,TOR02,2021-10-04,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR02 20211004 N1 C006,TOR02,2021-10-04,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR04 20211005 N2 C002,TOR04,2021-10-05,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 N2 C008,TOR04,2021-10-05,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 N1 C004,TOR04,2021-10-05,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+BOR02 20211004 H1 E001,BOR02,2021-10-04,Hand,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+TOR02 20211004 N1 E002,TOR02,2021-10-04,Net,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+TOR02 20211004 N1 E001,TOR02,2021-10-04,Net,1,Male,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+TOR02 20211004 H1 E001,TOR02,2021-10-04,Hand,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+TOR02 20210919 H1 C001,TOR02,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR02 20211004 N1 E003,TOR02,2021-10-04,Net,1,Male,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+TOR02 20211004 H1 E002,TOR02,2021-10-04,Hand,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+TOR06 20211005 N2 C001,TOR06,2021-10-05,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TAV07 20210917 H1 C001,TAV07,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV07 20210917 H1 C004,TAV07,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TAV07 20210917 H1 C006,TAV07,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV07 20210917 H1 C009,TAV07,2021-09-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV07 20210917 H1 C010,TAV07,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL09 20210915 N1 C001,MOL09,2021-09-15,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+MOL09 20210915 N1 C004,MOL09,2021-09-15,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV07 20210917 H1 E001,TAV07,2021-09-17,Hand,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Pholidoptera,Pholidoptera griseoaptera
+TOR10 20210914 H1 C001,TOR10,2021-09-14,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR10 20210914 H1 C002,TOR10,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+TOR10 20210914 H1 C003,TOR10,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus albomarginatus
+TOR10 20210914 H1 C004,TOR10,2021-09-14,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR10 20210914 H1 C005,TOR10,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR10 20210914 N1 C001,TOR10,2021-09-14,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR10 20210914 N1 C002,TOR10,2021-09-14,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR10 20210914 N1 C004,TOR10,2021-09-14,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TAV01 20210917 N2 C001,TAV01,2021-09-17,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+MOL05 20210915 N2 C001,MOL05,2021-09-15,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+BOR02 20210914 N1 C001,BOR02,2021-09-14,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+MOL04 20210915 H1 C001,MOL04,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+MOL04 20210915 H1 C003,MOL04,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV03 20210917 N2 C001,TAV03,2021-09-17,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+MOL02 20210915 H1 C001,MOL02,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Melanoplinae,Cophopodisma,Cophopodisma pyrenaea
+BES02 20210914 N1 C001,BES02,2021-09-14,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES02 20210914 N1 C002,BES02,2021-09-14,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV05 20210917 N1 C001,TAV05,2021-09-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TAV05 20210917 N1 C002,TAV05,2021-09-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TAV05 20210917 N1 C003,TAV05,2021-09-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+MOL05 20210915 N1 C001,MOL05,2021-09-15,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus lineatus
+MOL05 20210915 H1 C001,MOL05,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+BES01 20210914 N1 C001,BES01,2021-09-14,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES01 20210914 N1 C002,BES01,2021-09-14,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+TOR04 20210919 N2 C003,TOR04,2021-09-19,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20210916 N1 C001,TAV08,2021-09-16,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 N1 C002,TAV08,2021-09-16,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 N1 C003,TAV08,2021-09-16,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 N1 C006,TAV08,2021-09-16,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+BES01 20210914 H1 C002,BES01,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES01 20210914 H1 C004,BES01,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Acrotylus,Acrotylus fischeri
+BES01 20210914 H1 C005,BES01,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+TAV09 20210916 H1 C002,TAV09,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20210916 H1 C003,TAV09,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20210916 H1 C005,TAV09,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20210916 H1 C007,TAV09,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20210916 H1 C008,TAV09,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV09 20210916 H1 C011,TAV09,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20210916 H1 E003,TAV09,2021-09-16,Hand,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+TAV07 20210917 N1 C001,TAV07,2021-09-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV07 20210917 N1 C003,TAV07,2021-09-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV07 20210917 N1 C005,TAV07,2021-09-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+MOL06 20210915 N1 C003,MOL06,2021-09-15,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL06 20210915 N1 C004,MOL06,2021-09-15,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL06 20210915 N1 C005,MOL06,2021-09-15,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+MOL09 20210915 H1 C003,MOL09,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL09 20210915 H1 C007,MOL09,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+MOL09 20210915 H1 C009,MOL09,2021-09-15,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+MOL09 20210915 H1 C010,MOL09,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+MOL09 20210915 H1 C011,MOL09,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+MOL09 20210915 H1 C012,MOL09,2021-09-15,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL09 20210915 H1 C013,MOL09,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus brunneus
+MOL09 20210915 H1 C015,MOL09,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus brunneus
+MOL06 20210915 H1 C001,MOL06,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+MOL06 20210915 H1 C003,MOL06,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus jacobsi
+MOL06 20210915 H1 C004,MOL06,2021-09-15,Hand,1,Unknown,Unknown,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL06 20210915 H1 C005,MOL06,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+MOL06 20210915 H1 C006,MOL06,2021-09-15,Hand,1,Unknown,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+MOL06 20210915 H1 E001,MOL06,2021-09-15,Hand,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Pholidoptera,Pholidoptera griseoaptera
+MOL08 20210915 H1 C001,MOL08,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus brunneus
+MOL08 20210915 H1 C003,MOL08,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+MOL08 20210915 H1 C004,MOL08,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL08 20210915 H1 C005,MOL08,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL08 20210915 H1 C006,MOL08,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL08 20210915 H1 C007,MOL08,2021-09-15,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL08 20210915 H1 C008,MOL08,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+MOL08 20210915 H1 E001,MOL08,2021-09-15,Hand,1,Male,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+BOR02 20210914 H1 C001,BOR02,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210914 H1 C002,BOR02,2021-09-14,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210914 H1 C003,BOR02,2021-09-14,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210914 H1 C004,BOR02,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus vagans
+BOR02 20210914 H1 E001,BOR02,2021-09-14,Hand,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+TAV09 20210916 N1 C001,TAV09,2021-09-16,Net,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+TAV09 20210916 N1 C002,TAV09,2021-09-16,Net,1,Female,Unknown,Confirmed,Caelifera,,,,
+TAV09 20210916 N1 C004,TAV09,2021-09-16,Net,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+TAV09 20210916 N1 C005,TAV09,2021-09-16,Net,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+TAV05 20210917 H1 C001,TAV05,2021-09-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus antigai
+TAV05 20210917 H1 C002,TAV05,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TAV05 20210917 H1 C003,TAV05,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TAV05 20210917 H1 C005,TAV05,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TAV05 20210917 H1 C006,TAV05,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+TOR10 20210914 H1 C006,TOR10,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR10 20210914 H1 C007,TOR10,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,Calliptamus italicus
+TOR01 20210914 H1 C002,TOR01,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Mecosthetus,Mecosthetus parapleurus
+TOR01 20210914 H1 E001,TOR01,2021-09-14,Hand,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Phaneropterinae,Leptophyes,Leptophyes punctatissima
+TAV06 20210718 H1 C001,TAV06,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV06 20210718 H1 C002,TAV06,2021-07-18,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV06 20210718 H1 C004,TAV06,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210718 H1 C005,TAV06,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210718 H1 C006,TAV06,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV03 20210718 N2 C001,TAV03,2021-07-18,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV03 20210718 N2 C002,TAV03,2021-07-18,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV03 20210718 N2 C003,TAV03,2021-07-18,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV01 20210718 H1 C001,TAV01,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV01 20210718 N1 C001,TAV01,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV01 20210718 N1 C002,TAV01,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210718 H1 C003,TAV09,2021-07-18,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+TAV09 20210718 H1 C004,TAV09,2021-07-18,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20210718 H1 C005,TAV09,2021-07-18,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210718 H1 C006,TAV09,2021-07-18,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210718 H1 C007,TAV09,2021-07-18,Hand,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210718 H1 C008,TAV09,2021-07-18,Hand,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210718 H1 C009,TAV09,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210718 H1 C010,TAV09,2021-07-18,Hand,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210718 H1 C013,TAV09,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210718 H1 C014,TAV09,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 H1 E001,TAV09,2021-07-18,Hand,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+TAV09 20210718 H1 E002,TAV09,2021-07-18,Hand,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV08 20210718 H1 C002,TAV08,2021-07-18,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20210718 H1 C003,TAV08,2021-07-18,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210718 H1 C004,TAV08,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210718 H1 C005,TAV08,2021-07-18,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210718 H1 C007,TAV08,2021-07-18,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210718 H1 E001,TAV08,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+MOL04 20210717 H1 E001,MOL04,2021-07-17,Hand,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,,,
+MOL04 20210717 N1 C001,MOL04,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL05 20210717 N1 C001,MOL05,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL05 20210717 N1 E001,MOL05,2021-07-17,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+MOL02 20210717 N1 C001,MOL02,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Melanoplinae,,
+MOL08 20210717 H1 C001,MOL08,2021-07-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL08 20210717 H1 C002,MOL08,2021-07-17,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+MOL08 20210717 H1 C004,MOL08,2021-07-17,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL08 20210717 H1 C005,MOL08,2021-07-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL08 20210717 H1 C006,MOL08,2021-07-17,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL09 20210717 N1 C001,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C002,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C003,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C004,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C005,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C006,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C007,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C008,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C009,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL09 20210717 N1 C010,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C011,MOL09,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 N1 C012,MOL09,2021-07-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL09 20210717 N1 C013,MOL09,2021-07-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+MOL09 20210717 N1 C014,MOL09,2021-07-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL09 20210717 N1 C015,MOL09,2021-07-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+MOL09 20210717 N1 C016,MOL09,2021-07-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+MOL09 20210717 N1 C017,MOL09,2021-07-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+BES01 20210702 N1 E001,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+BES01 20210702 N1 E002,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+BES01 20210702 N1 E003,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+BES01 20210702 N1 E004,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+BES01 20210702 N1 E005,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BES01 20210702 N1 E006,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+BES01 20210702 N1 E007,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+BES01 20210702 N1 E008,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+BES01 20210702 N1 E009,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+BES01 20210702 N1 E010,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+BES01 20210702 N1 E011,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BES01 20210702 N1 E012,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+BES01 20210702 N1 E013,BES01,2021-07-02,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BES01 20210702 N1 C001,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C002,BES01,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C003,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C004,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C005,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,Euchorthippus elegantulus
+BES01 20210702 N1 C007,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C008,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C009,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C010,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C011,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C012,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C013,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C014,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C015,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C016,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C017,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C018,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C019,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C020,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C021,BES01,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C022,BES01,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C023,BES01,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BES01 20210702 N1 C024,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C025,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C026,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C028,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C029,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C030,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,Euchorthippus elegantulus
+BES01 20210702 N1 C031,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C032,BES01,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BES01 20210702 N1 C033,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C034,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C035,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C036,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C037,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C038,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,
+BES01 20210702 N1 C039,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES01 20210702 N1 C040,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C041,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES01 20210702 N1 C042,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES01 20210702 N1 C044,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES01 20210702 N1 C049,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES01 20210702 N1 C050,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES01 20210702 N1 C051,BES01,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C052,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BES01 20210702 N1 C053,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BES01 20210702 N1 C054,BES01,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,Euchorthippus elegantulus
+BES02 20210702 N1 C001,BES02,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Tetrigidae,Tetriginae,,
+BES02 20210702 N1 C002,BES02,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,Euchorthippus elegantulus
+BES02 20210702 N1 C003,BES02,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES02 20210702 N1 C004,BES02,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES02 20210702 N1 C005,BES02,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES02 20210702 N1 C007,BES02,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES02 20210702 N1 C008,BES02,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES02 20210702 N1 C009,BES02,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES02 20210702 N1 C010,BES02,2021-07-02,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,
+BES02 20210702 N1 E001,BES02,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+BES02 20210702 N1 E002,BES02,2021-07-02,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BES02 20210702 N1 E003,BES02,2021-07-02,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+TAV09 20210619 N1 E001,TAV09,2021-06-19,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV09 20210619 N1 E002,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV09 20210619 N1 E003,TAV09,2021-06-19,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV09 20210619 N1 E004,TAV09,2021-06-19,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+TAV09 20210619 N1 E005,TAV09,2021-06-19,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+TAV09 20210619 N1 E006,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV09 20210619 N1 C002,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C003,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C004,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C005,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C006,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C007,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C008,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C009,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C010,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C011,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C012,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C013,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C014,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C015,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C016,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C017,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C018,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C019,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C021,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV09 20210619 N1 C022,TAV09,2021-06-19,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C023,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C024,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C025,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C026,TAV09,2021-06-19,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C027,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV09 20210619 N1 C028,TAV09,2021-06-19,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C029,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C030,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C031,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C032,TAV09,2021-06-19,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C033,TAV09,2021-06-19,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C034,TAV09,2021-06-19,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C035,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C036,TAV09,2021-06-19,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C047,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C053,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C056,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C059,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C060,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C061,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C065,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C066,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C068,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C069,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C070,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C071,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C072,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210619 N1 C073,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C074,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 E001,TOR09,2021-07-01,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,Tettigonia viridissima
+TOR09 20210701 N1 E002,TOR09,2021-07-01,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,
+TOR09 20210701 N1 E003,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR09 20210701 N1 E004,TOR09,2021-07-01,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR09 20210701 N1 E005,TOR09,2021-07-01,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR09 20210701 N1 E006,TOR09,2021-07-01,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR09 20210701 N1 E007,TOR09,2021-07-01,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+TOR09 20210701 N1 E008,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR09 20210701 N1 E009,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR09 20210701 N1 E010,TOR09,2021-07-01,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR09 20210701 N1 E011,TOR09,2021-07-01,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,,,
+TOR09 20210701 N1 E012,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR09 20210701 N1 C001,TOR09,2021-07-01,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210701 N1 C002,TOR09,2021-07-01,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210701 N1 C003,TOR09,2021-07-01,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210701 N1 C008,TOR09,2021-07-01,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210701 N1 C009,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C011,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C012,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C013,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C014,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C015,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C016,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C017,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C018,TOR09,2021-07-01,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C020,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C021,TOR09,2021-07-01,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C022,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C024,TOR09,2021-07-01,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C025,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C026,TOR09,2021-07-01,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+TOR09 20210701 N1 C027,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TOR09 20210701 N1 C028,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C029,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C030,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C031,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C032,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C033,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C034,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C035,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C036,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C037,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C038,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C039,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C040,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C042,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR10 20210629 N1 C002,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR10 20210629 N1 C003,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR10 20210629 N1 C004,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR10 20210629 N1 C005,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR10 20210629 N1 C006,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR10 20210629 N1 C008,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR10 20210629 N1 C009,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR10 20210629 N1 C010,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TOR10 20210629 N1 C011,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR10 20210629 N1 C012,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR10 20210629 N1 E001,TOR10,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+TOR10 20210629 N1 E002,TOR10,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,
+TOR10 20210629 N1 E003,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR10 20210629 N1 E004,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR10 20210629 N1 E005,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR10 20210629 N1 E006,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR10 20210629 N1 E007,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR10 20210629 N1 E008,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR08 20210701 N1 E001,TOR08,2021-07-01,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,
+TOR08 20210701 N1 E002,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR08 20210701 N1 E003,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR08 20210701 N1 E004,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR08 20210701 N1 C001,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR08 20210701 N1 C002,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR08 20210701 N1 C004,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210701 N1 C005,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210701 N1 C006,TOR08,2021-07-01,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR08 20210701 N1 C007,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210701 N1 C008,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210701 N1 C009,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210701 N1 C010,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210701 N1 C011,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210701 N1 C001,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR07 20210701 N1 C003,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210701 N1 C004,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210701 N1 C005,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210701 N1 C006,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR07 20210701 N1 C008,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210701 N1 C009,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210701 N1 C010,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210701 N1 C011,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR06 20210701 N1 C001,TOR06,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR06 20210701 N1 C002,TOR06,2021-07-01,Net,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+TOR05 20210701 N1 C001,TOR05,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210701 N1 C001,TOR04,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210701 N1 C002,TOR04,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210701 N1 C003,TOR04,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210701 N1 C004,TOR04,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210701 N1 C005,TOR04,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210701 N1 C006,TOR04,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210701 N1 C007,TOR04,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210701 N1 C001,TOR03,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR02 20210629 N1 C001,TOR02,2021-06-29,Net,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+TOR02 20210629 N1 E002,TOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,
+TOR02 20210629 N1 E003,TOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR02 20210629 N1 E004,TOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR02 20210629 N1 E005,TOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR02 20210629 N1 E006,TOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E001,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E002,TOR01,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR01 20210629 N1 E003,TOR01,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,
+TOR01 20210629 N1 E004,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E005,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E006,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E008,TOR01,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,
+TOR01 20210629 N1 E009,TOR01,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,
+TOR01 20210629 N1 E010,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E011,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E012,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E013,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E014,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E015,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E016,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E017,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E018,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E019,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 E020,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210629 N1 C001,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR01 20210629 N1 C002,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR01 20210629 N1 C003,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR01 20210629 N1 C005,TOR01,2021-06-29,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR01 20210629 N1 C006,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR01 20210629 N1 C007,TOR01,2021-06-29,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR01 20210629 N1 C008,TOR01,2021-06-29,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR01 20210629 N1 C009,TOR01,2021-06-29,Net,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+TOR05 20211005 H1 C006,TOR05,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+BES01 20211004 H1 C004,BES01,2021-10-04,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,Calliptamus italicus
+TOR03 20210919 H1 C004,TOR03,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Melanoplinae,Cophopodisma,Cophopodisma pyrenaea
+TAV06 20210917 H1 C003,TAV06,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+MOL06 20210915 N2 C001,MOL06,2021-09-15,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV07 20210917 H1 C005,TAV07,2021-09-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV06 20210917 H1 C001,TAV06,2021-09-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV08 20210916 H1 C001,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 H1 C002,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TAV08 20210916 H1 C004,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus brunneus
+TAV08 20210916 H1 C007,TAV08,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20210916 H1 C015,TAV08,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 H1 C019,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV08 20210916 H1 C020,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 H1 C021,TAV08,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus montanus
+TAV08 20210916 H1 C024,TAV08,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 N1 C005,TAV08,2021-09-16,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TAV08 20210916 H1 C025,TAV08,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+BES01 20210914 H1 C006,BES01,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,Euchorthippus declivus
+TOR10 20211004 H1 C001,TOR10,2021-10-04,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+BOR02 20210629 N1 C021,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+BOR02 20210629 N1 C022,BOR02,2021-06-29,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+MOL08 20210703 N1 C007,MOL08,2021-07-03,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV08 20210718 N1 C002,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210718 N1 C008,TAV08,2021-07-18,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TAV08 20210718 N1 C003,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210718 N1 C005,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus montanus
+TAV08 20210718 N1 C007,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210718 N1 C006,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210718 N1 C004,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210718 N1 C011,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TAV09 20210916 H1 C006,TAV09,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+MOL08 20210717 N1 C002,MOL08,2021-07-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV09 20210718 N1 C024,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV09 20210718 N1 C014,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV08 20210916 H1 C005,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV09 20210718 N1 C005,TAV09,2021-07-18,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV07 20210718 H1 C001,TAV07,2021-07-18,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphocerus,Gomphocerus sibiricus
+MOL06 20210915 N2 C002,MOL06,2021-09-15,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20210916 H1 C009,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV07 20210917 H1 C008,TAV07,2021-09-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+BOR02 20210629 N1 E027,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,Tettigonia viridissima
+TOR02 20210614 N1 E022,TOR02,2021-06-14,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR02 20210919 H1 C003,TOR02,2021-09-19,Hand,1,Unknown,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+TOR02 20211004 H1 E003,TOR02,2021-10-04,Hand,1,Unknown,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+TOR02 20211004 H1 E004,TOR02,2021-10-04,Hand,1,Unknown,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+TOR02 20211004 H1 E005,TOR02,2021-10-04,Hand,1,Unknown,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES01 20210720 H1 C009,BES01,2021-07-20,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES01 20210720 H1 C012,BES01,2021-07-20,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,Calliptamus italicus
+BES01 20210720 H1 C008,BES01,2021-07-20,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+BES01 20210720 N1 C012,BES01,2021-07-20,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+TOR09 20210616 N1 C025,TOR09,2021-06-16,Net,1,Female,Adult,Confirmed,Caelifera,Tetrigidae,Tetriginae,Depressotetrix,Depressotetrix depressa
+TAV09 20210718 N1 C025,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV09 20210630 N1 C001,TAV09,2021-06-30,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+BES01 20210720 N1 C011,BES01,2021-07-20,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus vagans
+TAV07 20210718 H1 C004,TAV07,2021-07-18,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR09 20210616 N1 C024,TOR09,2021-06-16,Net,1,Male,Adult,Confirmed,Caelifera,Tetrigidae,Tetriginae,Depressotetrix,Depressotetrix depressa
+TAV08 20211006 H1 C002,TAV08,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C003,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+MOL06 20210915 N2 C003,MOL06,2021-09-15,Net,2,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BOR02 20210629 N1 C004,BOR02,2021-06-29,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C008,BOR02,2021-06-29,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C013,TAV09,2021-07-18,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C014,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C006,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C012,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C006,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C018,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C011,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C005,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C021,TAV09,2021-07-18,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C023,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C010,BOR02,2021-06-29,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C011,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C007,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C020,BOR02,2021-06-29,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C001,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C003,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C019,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C029,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C027,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C004,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C017,BOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+BOR02 20210629 N1 C019,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210718 N1 C020,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C009,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C016,BOR02,2021-06-29,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C007,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C013,BOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C012,TAV09,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C003,BOR02,2021-06-29,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+MOL08 20210717 N1 C003,MOL08,2021-07-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL08 20210717 N1 C001,MOL08,2021-07-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL08 20210717 H1 C003,MOL08,2021-07-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C008,TOR04,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR02 20211004 N1 C005,TOR02,2021-10-04,Net,1,Unknown,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TAV08 20210718 N1 C013,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL08 20210717 N1 C004,MOL08,2021-07-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TAV08 20210718 N1 C015,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20210718 N1 C024,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+BOR02 20211004 H1 E002,BOR02,2021-10-04,Hand,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+BOR02 20210629 N1 E011,BOR02,2021-06-29,Net,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+TAV06 20210718 N1 C002,TAV06,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+BES01 20210720 H1 C003,BES01,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+BES01 20210720 N1 C004,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+BES01 20210720 H1 C004,BES01,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+BES01 20210720 H1 C001,BES01,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+BES01 20210720 H1 C005,BES01,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BES01 20210720 H1 C002,BES01,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+BES01 20210720 N1 C001,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210720 N1 C003,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210720 N1 C002,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C032,TAV08,2021-06-30,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+MOL09 20210703 N1 C007,MOL09,2021-07-03,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TOR01 20210914 H1 C001,TOR01,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20210718 N1 C026,TAV09,2021-07-18,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20210718 H1 C001,TAV09,2021-07-18,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+BES01 20210914 H1 C001,BES01,2021-09-14,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Acrotylus,Acrotylus fischeri
+TAV01 20210917 H1 C001,TAV01,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,Gomphoceridius brevipennis
+TAV08 20210718 N1 C009,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+BES01 20210914 H1 C003,BES01,2021-09-14,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Oedipoda,Oedipoda caerulescens
+TOR05 20210919 N2 C001,TOR05,2021-09-19,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20210919 N1 C001,TOR05,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+BES02 20210720 H1 C001,BES02,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+TAV06 20210718 H1 C003,TAV06,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR03 20210719 N2 C015,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C006,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR03 20210719 N2 C003,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR06 20210719 N2 C001,TOR06,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C011,TOR03,2021-07-19,Net,2,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TOR03 20210719 N2 C012,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C008,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210616 N1 C010,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210616 N1 C004,TOR07,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 H1 C002,TOR04,2021-07-19,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C010,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C002,TOR03,2021-07-19,Net,2,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR03 20210719 H1 C003,TOR03,2021-07-19,Hand,1,Male,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C010,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C013,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210616 N1 C003,TOR04,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C011,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C031,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR06 20210719 N1 C001,TOR06,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C022,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C049,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 H1 C001,TOR04,2021-07-19,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C030,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210718 N1 C001,TAV09,2021-07-18,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+MOL08 20210703 N1 C001,MOL08,2021-07-03,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+TAV09 20210718 N1 C002,TAV09,2021-07-18,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus albomarginatus
+TAV09 20210630 N1 C003,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL05 20210703 N1 C001,MOL05,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C030,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL06 20210703 N1 C002,MOL06,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV03 20210718 H1 C001,TAV03,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C038,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C040,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C053,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210630 N1 C013,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL04 20210703 N1 C001,MOL04,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C005,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C033,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C007,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C006,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C008,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C038,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210718 N1 C032,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C037,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C039,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210703 N1 C001,MOL06,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C048,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL03 20210703 N1 C001,MOL03,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210703 N1 C001,MOL09,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C047,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL08 20210703 N1 C002,MOL08,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C004,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL08 20210717 N1 C005,MOL08,2021-07-17,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+MOL06 20210717 H1 C001,MOL06,2021-07-17,Hand,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL03 20210717 N2 C002,MOL03,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV07 20210618 N1 C005,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N1 C008,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C006,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210717 H1 C002,MOL09,2021-07-17,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL08 20210717 N1 C009,MOL08,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210630 N1 C003,TAV06,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C010,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C012,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C011,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N1 C006,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C013,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C020,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL04 20210717 N2 C001,MOL04,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C008,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C001,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV03 20210718 N1 C003,TAV03,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL05 20210717 N2 C002,MOL05,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C014,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C007,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV03 20210718 N1 C002,TAV03,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N1 C012,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV03 20210718 N1 C001,TAV03,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV03 20210718 N1 C004,TAV03,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV03 20210718 N1 C005,TAV03,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C002,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C009,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N1 C009,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N1 C007,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C027,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C018,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C041,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C040,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C032,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C036,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C010,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C003,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C004,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210616 N1 C002,TOR07,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210616 N1 C003,TOR07,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210616 N1 C002,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C008,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C003,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C025,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C021,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C018,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C002,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C003,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C001,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C009,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C020,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C007,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C006,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C004,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C019,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C012,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C015,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C055,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C047,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C048,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C059,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C046,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C043,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C057,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C060,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C053,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C042,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C054,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210618 N1 C003,TAV06,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV06 20210618 N1 C004,TAV06,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210618 N1 C026,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210618 N1 C023,TAV07,2021-06-18,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL01 20210717 N2 C002,MOL01,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL05 20210717 N2 C001,MOL05,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL08 20210717 N1 C010,MOL08,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210618 N1 C001,TAV06,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210618 N1 C002,TAV06,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C030,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C024,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C025,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C028,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C027,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C031,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C106,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C098,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C104,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C103,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C100,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C108,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C107,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C094,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C105,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C097,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C093,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C095,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C096,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210720 N1 C009,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BES01 20210720 N1 C005,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR03 20210719 N1 C021,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C017,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C016,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C031,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C025,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C022,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C029,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C024,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C005,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C013,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C026,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C023,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C014,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C030,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N1 C028,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR06 20210616 N1 C002,TOR06,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR06 20210616 N1 C001,TOR06,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C009,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR07 20210616 N1 C001,TOR07,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV05 20210718 N1 C007,TAV05,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV05 20210718 N1 C006,TAV05,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV05 20210718 N1 C003,TAV05,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210720 N1 C006,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210720 N1 C007,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210703 N1 C008,MOL06,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL09 20210703 N1 C002,MOL09,2021-07-03,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV05 20210718 N1 C001,TAV05,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR09 20210616 N1 C002,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210616 N1 C019,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210616 N1 C013,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210616 N1 C014,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210616 N1 C003,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL03 20210703 N1 E001,MOL03,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+MOL06 20210703 N1 C005,MOL06,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210703 N1 C006,MOL06,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL08 20210703 N1 C006,MOL08,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV05 20210718 N1 C005,TAV05,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV05 20210718 N1 C004,TAV05,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C005,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C009,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C007,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C023,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C022,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C020,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C021,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C018,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C016,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C008,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C012,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C001,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C015,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210616 N1 C017,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL05 20210717 N2 C003,MOL05,2021-07-17,Net,2,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL06 20210717 N1 C003,MOL06,2021-07-17,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+MOL08 20210717 N1 C008,MOL08,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL08 20210717 N1 C006,MOL08,2021-07-17,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV06 20210718 N1 C001,TAV06,2021-07-18,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210718 H1 C009,TAV07,2021-07-18,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Melanoplinae,Cophopodisma,Cophopodisma pyrenaea
+TAV07 20210718 H1 C007,TAV07,2021-07-18,Hand,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210718 H1 C010,TAV07,2021-07-18,Hand,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210718 H1 C002,TAV07,2021-07-18,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TAV08 20210718 N1 C020,TAV08,2021-07-18,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210718 N1 C023,TAV08,2021-07-18,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210718 N1 C016,TAV08,2021-07-18,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210718 N1 C012,TAV08,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210718 N1 C025,TAV08,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210718 N1 C019,TAV08,2021-07-18,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210718 N1 C017,TAV08,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210718 N1 C017,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV05 20210718 N2 C001,TAV05,2021-07-18,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210630 N1 C004,TAV06,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210718 N1 C001,TAV07,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210718 N1 C002,TAV07,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210718 H1 C008,TAV07,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210718 N1 C003,TAV07,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210718 N1 C018,TAV08,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210718 N1 C008,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL02 20210717 N2 C001,MOL02,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N1 C005,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N1 C010,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N2 C004,MOL06,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N1 C004,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 N1 C011,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL01 20210717 N2 C003,MOL01,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL01 20210717 N2 C001,MOL01,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210717 H1 C003,MOL06,2021-07-17,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210630 N1 C001,TAV06,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210630 N1 C002,TAV06,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV06 20210718 N1 C003,TAV06,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C019,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C017,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210630 N1 C011,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C018,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C015,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C016,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C021,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C022,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C023,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C036,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C030,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C021,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C035,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C025,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C022,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210616 N1 C005,TOR08,2021-06-16,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR08 20210616 N1 C009,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR05 20210616 N1 C005,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV09 20210630 N1 C024,TAV09,2021-06-30,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C043,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR03 20210616 N1 C002,TOR03,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210616 N1 C001,TOR03,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210616 N1 C002,TOR04,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210616 N1 C001,TOR04,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C011,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C010,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C006,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C002,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C007,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C012,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210616 N1 C008,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210616 N1 C008,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210616 N1 C007,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR08 20210616 N1 C006,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C042,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C046,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C052,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210630 N1 C010,TAV07,2021-06-30,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210630 N1 C011,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210630 N1 C017,TAV08,2021-06-30,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 C010,TAV08,2021-06-30,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210630 N1 C013,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210630 N1 C019,TAV08,2021-06-30,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210630 N1 C015,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV08 20210630 N1 C018,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210630 N1 C029,TAV08,2021-06-30,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV08 20210630 N1 C012,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV08 20210630 N1 C021,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV08 20210630 N1 C016,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV09 20210630 N1 C011,TAV09,2021-06-30,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV09 20210630 N1 C012,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV09 20210630 N1 C021,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C033,TAV09,2021-06-30,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C029,TAV09,2021-06-30,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C032,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C027,TAV09,2021-06-30,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C028,TAV09,2021-06-30,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C035,TAV09,2021-06-30,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210630 N1 C005,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210630 N1 C001,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210630 N1 C004,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210630 N1 C007,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210630 N1 C009,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210630 N1 C003,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C028,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C020,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C034,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C014,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210630 N1 C027,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C026,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C044,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C051,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C045,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210630 N1 C041,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210630 N1 C006,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210919 H1 C007,TOR09,2021-09-19,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL04 20210703 N1 C003,MOL04,2021-07-03,Net,1,Male,Nymph,Confirmed,Caelifera,,,,
+MOL04 20210703 N1 C002,MOL04,2021-07-03,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+MOL05 20210703 N1 C003,MOL05,2021-07-03,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL08 20210703 N1 C003,MOL08,2021-07-03,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,,,
+MOL08 20210703 N1 C004,MOL08,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+MOL08 20210703 N1 C005,MOL08,2021-07-03,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL05 20210703 N1 C002,MOL05,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL05 20210703 N1 C004,MOL05,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL05 20210703 N1 C005,MOL05,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210703 N1 C003,MOL06,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210703 N1 C007,MOL06,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL06 20210703 N1 C004,MOL06,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210703 N1 C003,MOL09,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV09 20210619 N1 C020,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL08 20210717 N1 C011,MOL08,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C082,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210619 N1 C058,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,,,
+TAV08 20210619 N1 C064,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210619 N1 C074,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210619 N1 C080,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C102,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C081,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C085,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C099,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C076,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C071,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C088,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C063,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C090,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C075,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C091,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C092,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C083,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C050,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C049,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C061,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C069,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C065,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C086,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C089,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C079,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C062,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C052,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C078,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C084,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C073,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C045,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C067,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C068,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C087,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C072,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C077,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C070,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C066,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C044,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C003,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C004,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV07 20210618 N1 C002,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C034,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C024,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C025,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C026,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C017,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C019,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C029,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C023,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C009,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C004,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C012,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR01 20210613 N1 C001,TOR01,2021-06-13,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C019,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR04 20210719 N1 C010,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR04 20210719 N1 C014,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR04 20210719 N1 C002,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR04 20210719 N1 C001,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR04 20210719 N1 C004,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR04 20210719 N1 C020,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR05 20210719 N1 C004,TOR05,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR05 20210719 N1 C003,TOR05,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR05 20210719 N1 C002,TOR05,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR01 20210613 N1 C002,TOR01,2021-06-13,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C005,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C020,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C001,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C017,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C006,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C004,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C018,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C007,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C014,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR03 20210719 N2 C009,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C019,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C006,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C009,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C005,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C011,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C018,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C016,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C013,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C017,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C008,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR05 20210719 N2 C001,TOR05,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR09 20210701 N1 C010,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL09 20210915 H1 C001,MOL09,2021-09-15,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Tetrigidae,Tetriginae,,
+MOL06 20210717 H1 C002,MOL06,2021-07-17,Hand,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C037,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C038,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C028,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C051,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C101,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TAV08 20210619 N1 C056,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+MOL03 20210717 N2 C001,MOL03,2021-07-17,Net,2,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+MOL06 20210717 N1 C002,MOL06,2021-07-17,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210619 N1 C033,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C031,TAV08,2021-06-19,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 E007,TAV08,2021-06-30,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,,,
+TAV09 20210718 N1 E001,TAV09,2021-07-18,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+TAV09 20210718 N1 E005,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+BOR02 20210629 N1 E018,BOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+BOR02 20210629 N1 E016,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+BOR02 20210629 N1 E006,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+BOR02 20210629 N1 E008,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+BOR02 20210629 N1 E002,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BOR02 20210629 N1 E020,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+BOR02 20210629 N1 E003,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BOR02 20210629 N1 E004,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,
+BOR02 20210629 N1 E017,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+BOR02 20210629 N1 E014,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BOR02 20210629 N1 E010,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BOR02 20210629 N1 E019,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,Tessellana tessellata
+BOR02 20210629 N1 E005,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+BES01 20210720 H1 E001,BES01,2021-07-20,Hand,1,Male,Nymph,Confirmed,Ensifera,Gryllidae,,,
+TAV08 20210630 N1 E003,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV08 20210630 N1 E010,TAV08,2021-06-30,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Bradyporinae,Ephippiger,Ephippiger diurnus
+TAV08 20210630 N1 E001,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV08 20210718 N1 E003,TAV08,2021-07-18,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV08 20210630 N1 E005,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV09 20210718 N1 E003,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV09 20210718 N1 E006,TAV09,2021-07-18,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV09 20210630 N1 E001,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Bradyporinae,Ephippiger,Ephippiger diurnus
+TAV08 20210630 N1 E006,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV08 20210630 N1 E002,TAV08,2021-06-30,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TAV08 20210718 N1 E001,TAV08,2021-07-18,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+TAV08 20210718 N1 E002,TAV08,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Bradyporinae,Ephippiger,Ephippiger diurnus
+BOR02 20210629 N1 E024,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+BOR02 20210629 N1 E023,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,
+BOR02 20210629 N1 E001,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,
+MOL08 20210717 N1 E001,MOL08,2021-07-17,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+TAV09 20210718 N1 E004,TAV09,2021-07-18,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+TAV09 20210718 N1 E002,TAV09,2021-07-18,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+TAV09 20210630 N1 E003,TAV09,2021-06-30,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,
+TAV09 20210630 N1 E002,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,
+TAV06 20210630 N1 E001,TAV06,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV06 20210618 N1 E001,TAV06,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV06 20210618 N1 E002,TAV06,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV07 20210630 N1 E001,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV07 20210630 N1 E002,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV08 20210630 N1 E004,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV08 20210630 N1 E008,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV08 20210619 N1 E001,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV08 20210630 N1 E011,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV08 20210619 N1 E004,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV08 20210630 N1 E009,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV08 20210619 N1 E002,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV08 20210619 N1 E003,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV09 20210718 N1 E007,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV09 20210630 N1 E006,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV09 20210630 N1 E007,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV09 20210718 N1 E008,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV09 20210630 N1 E008,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV09 20210718 N1 E009,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV09 20210630 N1 E004,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TAV09 20210630 N1 E005,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+BOR02 20210629 N1 E015,BOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR08 20210616 N1 E006,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR08 20210616 N1 E004,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR08 20210616 N1 E003,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR08 20210616 N1 E005,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR09 20210616 N1 E005,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR09 20210616 N1 E007,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR09 20210616 N1 E004,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR09 20210616 N1 E006,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR09 20210616 N1 E001,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+BOR02 20210629 N1 E007,BOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+BOR02 20210629 N1 E009,BOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+BOR02 20210629 N1 E025,BOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR01 20210613 N1 E001,TOR01,2021-06-13,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR08 20210616 N1 E001,TOR08,2021-06-16,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,Tettigonia viridissima
+TOR08 20210616 N1 E002,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR09 20210616 N1 E008,TOR09,2021-06-16,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Phaneropterinae,Isophya,Isophya pyrenaea
+TOR09 20210616 N1 E002,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+TOR09 20210616 N1 E003,TOR09,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,,
+MOL06 20210703 N1 E001,MOL06,2021-07-03,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+BOR02 20210629 N1 E026,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,Platycleis albopunctata
+BOR02 20210629 N1 E021,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BES01 20210702 N1 C046,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C045,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C048,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C047,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C006,BES01,2021-07-02,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+BES01 20210702 N1 C055,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+BES01 20210702 N1 C043,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210919 H1 C021,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR06 20211005 N1 C001,TOR06,2021-10-05,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C016,TAV08,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR08 20210919 N1 C001,TOR08,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus albomarginatus
+TOR10 20210914 N1 C003,TOR10,2021-09-14,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus albomarginatus
+TAV09 20211006 H1 C009,TAV09,2021-10-06,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus albomarginatus
+TAV09 20211006 H1 C023,TAV09,2021-10-06,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR09 20210919 H1 C004,TOR09,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210919 H1 C002,TOR09,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210919 H1 C005,TOR09,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210919 H1 C003,TOR09,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR09 20210919 H1 C006,TOR09,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR04 20211005 H1 C007,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+MOL06 20211002 H1 C004,MOL06,2021-10-02,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TAV08 20210916 H1 C018,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 H1 C016,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV06 20211006 H1 C002,TAV06,2021-10-06,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C002,BOR02,2021-06-29,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus montanus
+TAV08 20210916 H1 C017,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 H1 C023,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+MOL06 20211002 H1 C006,MOL06,2021-10-02,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+BES01 20211004 H1 C009,BES01,2021-10-04,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus jacobsi
+TAV07 20210917 H1 C011,TAV07,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20210916 N1 C007,TAV08,2021-09-16,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20210916 H1 C003,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV09 20210718 H1 C002,TAV09,2021-07-18,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20211006 N1 C009,TAV09,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20211006 N1 C003,TAV09,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20211006 H1 C015,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20211006 N1 C012,TAV09,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20211006 H1 C004,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TAV09 20211006 H1 C007,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TOR10 20211004 H1 C004,TOR10,2021-10-04,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TOR04 20210919 H1 C023,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR04 20211005 H1 C010,TOR04,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL04 20211002 H1 C004,MOL04,2021-10-02,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL04 20211002 H1 C001,MOL04,2021-10-02,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+TAV08 20210916 N1 C004,TAV08,2021-09-16,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus montanus
+TAV08 20210916 H1 C014,TAV08,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV06 20210917 N1 C001,TAV06,2021-09-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210916 H1 C022,TAV08,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR07 20210919 N1 C004,TOR07,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+BES01 20211004 H1 C002,BES01,2021-10-04,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,Euchorthippus elegantulus
+BES01 20210720 H1 C006,BES01,2021-07-20,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,Euchorthippus elegantulus
+TOR02 20210919 N1 C006,TOR02,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TAV09 20210916 H1 C004,TAV09,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR09 20210919 N1 C008,TOR09,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV09 20211006 H1 C010,TAV09,2021-10-06,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TOR03 20210919 H1 C007,TOR03,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20210916 H1 C013,TAV08,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C001,TAV08,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV09 20211006 H1 C008,TAV09,2021-10-06,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stauroderus,Stauroderus scalaris
+TOR09 20211005 N1 C002,TOR09,2021-10-05,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TOR04 20210919 N1 C015,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+MOL06 20211002 N1 C002,MOL06,2021-10-02,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TAV07 20210917 N1 C002,TAV07,2021-09-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TAV08 20210916 H1 C011,TAV08,2021-09-16,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR03 20210919 N2 C002,TOR03,2021-09-19,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+BES02 20211004 N1 C002,BES02,2021-10-04,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus brunneus
+MOL08 20210915 N1 C001,MOL08,2021-09-15,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL06 20211002 H1 C003,MOL06,2021-10-02,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL04 20211002 H1 C003,MOL04,2021-10-02,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+TOR04 20210919 H1 C020,TOR04,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TAV06 20210917 H1 C002,TAV06,2021-09-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Gomphocerus,Gomphocerus sibiricus
+MOL06 20210915 N1 C001,MOL06,2021-09-15,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+TOR09 20211005 H1 C005,TOR09,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TAV08 20210718 N1 C001,TAV08,2021-07-18,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+MOL06 20210717 N2 C003,MOL06,2021-07-17,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20210616 N1 C001,TOR05,2021-06-16,Net,1,Female,Adult,Confirmed,Caelifera,Tetrigidae,Tetriginae,Depressotetrix,Depressotetrix depressa
+TAV09 20211006 N1 C005,TAV09,2021-10-06,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus dorsatus
+MOL09 20210915 N1 C006,MOL09,2021-09-15,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL06 20211002 H1 C009,MOL06,2021-10-02,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL03 20211002 H1 C001,MOL03,2021-10-02,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL09 20210915 H1 C004,MOL09,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20211005 H1 C010,TOR05,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C002,TAV08,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL06 20210915 N1 C006,MOL06,2021-09-15,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C009,TAV08,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 H1 C008,TAV08,2021-10-06,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR08 20210919 H1 C001,TOR08,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR06 20211005 H1 C002,TOR06,2021-10-05,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR06 20210919 N1 C001,TOR06,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TAV07 20210917 H1 C007,TAV07,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR01 20210629 N1 C010,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR04 20210701 N1 C008,TOR04,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Euchorthippus,
+TOR05 20210616 N1 C013,TOR05,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C050,TAV09,2021-06-30,Net,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+TAV08 20210718 N1 C021,TAV08,2021-07-18,Net,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+TOR08 20210616 N1 C003,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,,,,
+TOR04 20210719 N1 C012,TOR04,2021-07-19,Net,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+BES02 20210720 N1 C002,BES02,2021-07-20,Hand,1,Unknown,Unknown,Confirmed,Caelifera,,,,
+BES01 20211004 H1 C001,BES01,2021-10-04,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus brunneus
+MOL03 20211002 H1 C002,MOL03,2021-10-02,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL06 20210915 H1 C007,MOL06,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL09 20210915 H1 C005,MOL09,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL09 20210915 H1 C008,MOL09,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR02 20211004 N1 C003,TOR02,2021-10-04,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR02 20210919 H1 C002,TOR02,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL03 20210915 N2 C001,MOL03,2021-09-15,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL03 20210915 H1 C001,MOL03,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL03 20210915 N1 C002,MOL03,2021-09-15,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL05 20211002 H1 C001,MOL05,2021-10-02,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL04 20210915 H1 C004,MOL04,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL06 20211002 N1 C003,MOL06,2021-10-02,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL03 20210915 N2 C002,MOL03,2021-09-15,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL03 20210915 N1 C001,MOL03,2021-09-15,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL04 20210915 H1 C002,MOL04,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL06 20211002 H1 C010,MOL06,2021-10-02,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+MOL05 20210915 H1 C002,MOL05,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus binotatus
+TOR04 20210919 H1 C002,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210916 H1 C010,TAV09,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+BOR02 20210629 N1 C015,BOR02,2021-06-29,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV06 20210917 N1 C005,TAV06,2021-09-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV08 20210718 H1 C008,TAV08,2021-07-18,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV07 20210917 H1 C002,TAV07,2021-09-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR04 20210919 H1 C003,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV06 20210917 N1 C003,TAV06,2021-09-17,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TAV09 20210916 H1 C009,TAV09,2021-09-16,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR04 20210919 H1 C001,TOR04,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+TOR04 20211005 N1 C001,TOR04,2021-10-05,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TAV08 20211006 N1 C006,TAV08,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL09 20210915 H1 C002,MOL09,2021-09-15,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL06 20210915 H1 C002,MOL06,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+MOL06 20210915 N1 C002,MOL06,2021-09-15,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV05 20210917 H1 C004,TAV05,2021-09-17,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus antigai
+BES02 20211004 N1 C001,BES02,2021-10-04,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Oedipodinae,Acrotylus,Acrotylus fischeri
+TAV09 20210916 H1 E002,TAV09,2021-09-16,Hand,1,Male,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BOR02 20210629 N1 E012,BOR02,2021-06-29,Net,1,Male,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+TAV09 20210916 H1 E001,TAV09,2021-09-16,Hand,1,Male,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Metrioptera,Metrioptera roeselii
+BOR02 20210629 N1 E013,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,Tettigonia viridissima
+BOR02 20210629 N1 E022,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,Tettigonia viridissima
+BES01 20210914 H1 C008,BES01,2021-09-14,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+MOL09 20210915 H1 C006,MOL09,2021-09-15,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR04 20211005 H1 C005,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR07 20210919 H1 C008,TOR07,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR03 20210919 H1 C008,TOR03,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20210919 N1 C011,TOR04,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20210718 N1 C014,TAV08,2021-07-18,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV08 20211006 N1 C013,TAV08,2021-10-06,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV07 20210917 N1 C004,TAV07,2021-09-17,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C012,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR03 20210919 N1 C001,TOR03,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR04 20211005 H1 C006,TOR04,2021-10-05,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TAV07 20210917 H1 C003,TAV07,2021-09-17,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
+TOR05 20210919 N1 C002,TOR05,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TOR05 20210919 H1 C002,TOR05,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20210919 N1 C003,TOR05,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20210919 N1 C006,TOR05,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20210919 N1 C004,TOR05,2021-09-19,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20210919 H1 C001,TOR05,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus apricarius
+TOR05 20210919 N1 C005,TOR05,2021-09-19,Net,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20210919 H1 C004,TOR05,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TOR05 20210919 H1 C005,TOR05,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20210919 H1 C006,TOR05,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+TOR05 20210919 H1 C007,TOR05,2021-09-19,Hand,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TOR05 20211005 N2 C001,TOR05,2021-10-05,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR05 20210919 H1 C003,TOR05,2021-09-19,Hand,1,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,Omocestus haemorrhoidalis
+BOR02 20210629 N1 C023,BOR02,2021-06-29,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C015,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR10 20210629 N1 C001,TOR10,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+MOL09 20210703 N1 C006,MOL09,2021-07-03,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TOR09 20210701 N1 C007,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210630 N1 C031,TAV08,2021-06-30,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+MOL09 20210703 N1 C004,MOL09,2021-07-03,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TAV09 20210916 H1 C001,TAV09,2021-09-16,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+TAV08 20210630 N1 C037,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C009,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210718 H1 C005,TAV07,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210630 N1 C024,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C014,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV07 20210630 N1 C008,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TAV09 20210619 N1 C001,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C006,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210619 N1 C003,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR08 20211005 H1 C002,TOR08,2021-10-05,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BES01 20210702 N1 C027,BES01,2021-07-02,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210718 H1 C001,TAV08,2021-07-18,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR09 20210701 N1 C004,TOR09,2021-07-01,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV09 20210630 N1 C002,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+MOL09 20210717 H1 C001,MOL09,2021-07-17,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TAV08 20210619 N1 C005,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR07 20210701 N1 C007,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR03 20210719 N2 C016,TOR03,2021-07-19,Net,2,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR04 20210719 N1 C003,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR03 20210719 N1 C015,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL09 20210703 N1 C005,MOL09,2021-07-03,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TOR03 20210719 N1 C011,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210718 N1 C004,TAV07,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TOR09 20210701 N1 C023,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BES02 20210720 N1 C001,BES02,2021-07-20,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Calliptaminae,Calliptamus,Calliptamus italicus
+TOR01 20210629 N1 C004,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR09 20210701 N1 C019,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL09 20210915 N1 C003,MOL09,2021-09-15,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR07 20210701 N1 C002,TOR07,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV05 20210718 N1 C002,TAV05,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+BES01 20210914 H1 C009,BES01,2021-09-14,Hand,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR10 20210629 N1 C007,TOR10,2021-06-29,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+TOR09 20210701 N1 C041,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TOR03 20210719 N1 C027,TOR03,2021-07-19,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Melanoplinae,Cophopodisma,Cophopodisma pyrenaea
+TOR01 20210629 N1 E021,TOR01,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Ensifera,,,,
+TOR09 20210919 N1 E001,TOR09,2021-09-19,Net,1,Female,Adult,Confirmed,Ensifera,Tettigoniidae,Tettigoniinae,Pholidoptera,Pholidoptera griseoaptera
+MOL06 20210915 N1 C007,MOL06,2021-09-15,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TAV09 20210718 H1 C011,TAV09,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 H1 C012,TAV09,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210718 H1 C006,TAV08,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C037,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C038,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C039,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C040,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C041,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C042,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C043,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C044,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C045,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C046,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C048,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C049,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C050,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C051,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C052,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C054,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C055,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C057,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C058,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C062,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C063,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C064,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210619 N1 C067,TAV09,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR09 20210701 N1 C005,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR09 20210701 N1 C006,TOR09,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR08 20210701 N1 C003,TOR08,2021-07-01,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV06 20210917 N1 C002,TAV06,2021-09-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV06 20210917 N1 C004,TAV06,2021-09-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C008,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C011,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C039,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C016,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C020,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C013,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C007,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+BOR02 20210629 N1 C024,BOR02,2021-06-29,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR03 20210719 N1 C008,TOR03,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR08 20210616 N1 C004,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR08 20210616 N1 C001,TOR08,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR06 20210616 N1 C003,TOR06,2021-06-16,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 C007,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 C002,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 C006,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 C001,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 C004,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C019,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C017,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C010,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C016,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C018,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C014,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C020,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C036,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C013,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210630 N1 C034,TAV09,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR05 20210719 N1 C001,TOR05,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR04 20210719 N1 C007,TOR04,2021-07-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR04 20210719 H1 C003,TOR04,2021-07-19,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TOR03 20210719 H1 C001,TOR03,2021-07-19,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+MOL01 20210717 N1 C001,MOL01,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,Pseudochorthippus parallelus
+MOL06 20210717 N1 C001,MOL06,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+MOL08 20210717 N1 C007,MOL08,2021-07-17,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV07 20210630 N1 C012,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV07 20210718 H1 C003,TAV07,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV07 20210630 N1 C002,TAV07,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV07 20210718 H1 C006,TAV07,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C031,TAV09,2021-07-18,Net,1,Unknown,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C016,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C018,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C022,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C015,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C009,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C033,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C030,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C028,TAV09,2021-07-18,Net,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210718 N1 C010,TAV09,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 C009,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C015,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C010,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210619 N1 C022,TAV08,2021-06-19,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210718 N1 C010,TAV08,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 C026,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210630 N1 C035,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV08 20210718 N1 C022,TAV08,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Tetrigidae,Tetriginae,,
+BES01 20210720 H1 C010,BES01,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Tetrigidae,Tetriginae,,
+BES01 20210720 N1 C010,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,Tetrigidae,Tetriginae,,
+BES01 20210720 H1 C013,BES01,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Tetrigidae,Tetriginae,,
+BES01 20210720 N1 C008,BES01,2021-07-20,Net,1,Unknown,Nymph,Confirmed,Caelifera,Tetrigidae,Tetriginae,,
+BES01 20210720 H1 C011,BES01,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Tetrigidae,Tetriginae,,
+BES01 20210720 H1 C007,BES01,2021-07-20,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Tetrigidae,Tetriginae,,
+MOL06 20210717 N2 C001,MOL06,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+MOL06 20210717 N2 C002,MOL06,2021-07-17,Net,2,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210718 H1 C011,TAV07,2021-07-18,Hand,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV07 20210618 N1 C001,TAV07,2021-06-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210718 N1 C026,TAV08,2021-07-18,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,,
+TAV08 20210630 N1 C005,TAV08,2021-06-30,Net,1,Unknown,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Pseudochorthippus,
+TAV09 20210916 N1 C003,TAV09,2021-09-16,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+TAV09 20210630 N1 C023,TAV09,2021-06-30,Net,1,Male,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TOR02 20211004 N1 C002,TOR02,2021-10-04,Net,1,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+TOR03 20210719 H1 C002,TOR03,2021-07-19,Hand,1,Female,Nymph,Confirmed,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,
+TOR04 20210919 N2 C001,TOR04,2021-09-19,Net,2,Male,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,
+TOR04 20210919 N2 C002,TOR04,2021-09-19,Net,2,Female,Adult,Confirmed,Caelifera,Acrididae,Gomphocerinae,Omocestus,
+TAV09 20211006 N1 C008,TAV09,2021-10-06,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+BES01 20210914 H1 C007,BES01,2021-09-14,Hand,1,Male,Nymph,Finalised,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,
+TOR02 20210629 N1 E001,TOR02,2021-06-29,Net,1,Unknown,Nymph,Finalised,Ensifera,Tettigoniidae,Tettigoniinae,Tessellana,
+TOR01 20210629 N1 E007,TOR01,2021-06-29,Net,1,Unknown,Nymph,Finalised,Ensifera,Tettigoniidae,Conocephalinae,Conocephalus,
+BES02 20210720 H1 C002,BES02,2021-07-20,Hand,1,Unknown,Nymph,Finalised,Caelifera,Acrididae,Melanoplinae,Miramella,
+TOR10 20211004 H1 C002,TOR10,2021-10-04,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR10 20211004 H1 C002,TOR10,2021-10-04,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TOR02 20211004 H1 C001,TOR02,2021-10-04,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR02 20211004 H1 C001,TOR02,2021-10-04,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TAV08 20210916 H1 C006,TAV08,2021-09-16,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TAV08 20210916 H1 C006,TAV08,2021-09-16,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+MOL09 20210915 H1 C014,MOL09,2021-09-15,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL09 20210915 H1 C014,MOL09,2021-09-15,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+MOL08 20210915 N1 C002,MOL08,2021-09-15,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL08 20210915 N1 C002,MOL08,2021-09-15,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TAV08 20211006 H1 C007,TAV08,2021-10-06,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TAV08 20211006 H1 C007,TAV08,2021-10-06,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TAV08 20210916 H1 C012,TAV08,2021-09-16,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TAV08 20210916 H1 C012,TAV08,2021-09-16,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TAV08 20210916 H1 C008,TAV08,2021-09-16,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TAV08 20210916 H1 C008,TAV08,2021-09-16,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+MOL08 20210915 H1 C002,MOL08,2021-09-15,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL08 20210915 H1 C002,MOL08,2021-09-15,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+MOL09 20210915 N1 C005,MOL09,2021-09-15,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL09 20210915 N1 C005,MOL09,2021-09-15,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TOR02 20210919 N1 C001,TOR02,2021-09-19,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR02 20210919 N1 C001,TOR02,2021-09-19,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+MOL09 20211002 H1 C002,MOL09,2021-10-02,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL09 20211002 H1 C002,MOL09,2021-10-02,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+MOL09 20210915 N1 C002,MOL09,2021-09-15,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+MOL09 20210915 N1 C002,MOL09,2021-09-15,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL09 20211002 H1 C001,MOL09,2021-10-02,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+MOL09 20211002 H1 C001,MOL09,2021-10-02,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TOR02 20210919 N1 C005,TOR02,2021-09-19,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TOR02 20210919 N1 C005,TOR02,2021-09-19,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TAV08 20210916 H1 C010,TAV08,2021-09-16,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus biguttulus
+TAV08 20210916 H1 C010,TAV08,2021-09-16,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TAV09 20211006 N1 C008,TAV09,2021-10-06,Net,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,Chorthippus mollis
+TOR05 20210919 H1 C008,TOR05,2021-09-19,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus nigromaculatus
+TAV07 20210618 N1 C029,TAV07,2021-06-18,Net,1,Unknown,Nymph,Finalised,Caelifera,Acrididae,Gomphocerinae,Gomphoceridius,
+TAV07 20210618 N1 C029,TAV07,2021-06-18,Net,1,Unknown,Nymph,Finalised,Caelifera,Acrididae,Gomphocerinae,Gomphocerus,
+TOR09 20210616 N1 C004,TOR09,2021-06-16,Net,1,Male,Nymph,Finalised,Caelifera,Acrididae,Gomphocerinae,Omocestus,
+TOR09 20210616 N1 C004,TOR09,2021-06-16,Net,1,Male,Nymph,Finalised,Caelifera,Acrididae,Gomphocerinae,Chorthippus,
+BES02 20210720 H1 C002,BES02,2021-07-20,Hand,1,Unknown,Nymph,Finalised,Caelifera,Acrididae,Melanoplinae,Podisma,
+BES01 20210914 H1 C007,BES01,2021-09-14,Hand,1,Male,Nymph,Finalised,Caelifera,Acrididae,Gomphocerinae,Gomphocerus,
+TOR01 20210629 N1 E007,TOR01,2021-06-29,Net,1,Unknown,Nymph,Finalised,Ensifera,Tettigoniidae,Tettigoniinae,Tettigonia,
+TOR02 20210629 N1 E001,TOR02,2021-06-29,Net,1,Unknown,Nymph,Finalised,Ensifera,Tettigoniidae,Tettigoniinae,Platycleis,
+TOR05 20210919 H1 C008,TOR05,2021-09-19,Hand,1,Female,Adult,Finalised,Caelifera,Acrididae,Gomphocerinae,Stenobothrus,Stenobothrus stigmaticus
