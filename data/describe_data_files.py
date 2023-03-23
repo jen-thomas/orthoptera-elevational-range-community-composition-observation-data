@@ -238,12 +238,12 @@ def describe_vegetation_plots_resource(resource):
     resource.schema.get_field("percentage_rock").description = "Percentage of plot covered by rock"
     resource.schema.get_field("percentage_rock").constraints["minimum"] = 0
     resource.schema.get_field("percentage_rock").constraints["maximum"] = 100
-    resource.schema.get_field("height_75percent").title = "Height 75 percent of vegetation (cm)"
-    resource.schema.get_field("height_75percent").description = "Height of 75 percent of vegetation in plot (cm)"
-    resource.schema.get_field("height_75percent").constraints["minimum"] = 0
-    resource.schema.get_field("max_height").title = "Maximum height of vegetation (cm)"
-    resource.schema.get_field("max_height").description = "Maximum height of vegetation in plot (cm)"
-    resource.schema.get_field("max_height").constraints["minimum"] = 0
+    resource.schema.get_field("height_75percent_cm").title = "Height 75 percent of vegetation (cm)"
+    resource.schema.get_field("height_75percent_cm").description = "Height of 75 percent of vegetation in plot (cm)"
+    resource.schema.get_field("height_75percent_cm").constraints["minimum"] = 0
+    resource.schema.get_field("max_height_cm").title = "Maximum height of vegetation (cm)"
+    resource.schema.get_field("max_height_cm").description = "Maximum height of vegetation in plot (cm)"
+    resource.schema.get_field("max_height_cm").constraints["minimum"] = 0
     resource.schema.get_field("density_01").title = "Vegetation density point 1"
     resource.schema.get_field("density_01").description = "Vegetation density at point 1 (number of times vegetation " \
                                                           "touches stick placed in plot corner)"
