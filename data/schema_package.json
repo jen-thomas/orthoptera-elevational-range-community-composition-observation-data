@@ -1,0 +1,527 @@
+{
+  "$frictionless": "package/v2",
+  "name": "orthoptera_pyrenees_2021",
+  "title": "Orthoptera elevational range, species richness and community composition in the Pyrenees",
+  "description": "Data and metadata for the article, 'Species richness of Orthoptera declines with elevation while elevational range of individual species peaks at mid elevation'",
+  "profile": "data-package",
+  "licenses": [
+    {
+      "name": "CC BY 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Jen Thomas",
+      "email": "jen@falciot.net",
+      "path": "https://falciot.net",
+      "role": "author"
+    }
+  ],
+  "keywords": [
+    "Orthoptera",
+    "Rapoport's Rule",
+    "species richness",
+    "elevational gradient",
+    "elevational range",
+    "community composition"
+  ],
+  "version": "1.0.0",
+  "resources": [
+    {
+      "name": "observations",
+      "type": "table",
+      "path": "observations.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "specimen_label",
+            "type": "string",
+            "title": "Specimen label",
+            "description": "Unique label given to specimen"
+          },
+          {
+            "name": "site_name",
+            "type": "string",
+            "title": "Site name",
+            "description": "Name of study site at which insect was captured",
+            "constraints": {
+              "pattern": "[A-Z]{3}[0-9]{2}"
+            }
+          },
+          {
+            "name": "date_cest",
+            "type": "date",
+            "title": "Date (CEST)",
+            "description": "Date on which insect was captured (CEST)"
+          },
+          {
+            "name": "method",
+            "type": "string",
+            "title": "Capture method",
+            "description": "Method by which insect was captured",
+            "constraints": {
+              "enum": [
+                "Hand",
+                "Net"
+              ]
+            }
+          },
+          {
+            "name": "method_repeat",
+            "type": "integer",
+            "title": "Capture method repeat",
+            "description": "Integer determining repeat number of capture method during survey",
+            "constraints": {
+              "enum": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "title": "Sex",
+            "description": "Sex of insect",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "Unknown"
+              ]
+            }
+          },
+          {
+            "name": "stage",
+            "type": "string",
+            "title": "Stage",
+            "description": "Development stage of insect",
+            "constraints": {
+              "enum": [
+                "Adult",
+                "Nymph",
+                "Unknown"
+              ]
+            }
+          },
+          {
+            "name": "id_confidence",
+            "type": "string",
+            "title": "ID confidence",
+            "description": "Identifier's confidence in identification of insect",
+            "constraints": {
+              "enum": [
+                "Confirmed",
+                "Finalised"
+              ]
+            }
+          },
+          {
+            "name": "suborder",
+            "type": "string",
+            "title": "Suborder",
+            "description": "Suborder"
+          },
+          {
+            "name": "family",
+            "type": "string",
+            "title": "Family",
+            "description": "Family"
+          },
+          {
+            "name": "subfamily",
+            "type": "string",
+            "title": "Subfamily",
+            "description": "Subfamily"
+          },
+          {
+            "name": "genus",
+            "type": "string",
+            "title": "Genus",
+            "description": "Genus"
+          },
+          {
+            "name": "species",
+            "type": "string",
+            "title": "Species",
+            "description": "Species"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sites",
+      "type": "table",
+      "path": "sites.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "area",
+            "type": "string",
+            "title": "Area",
+            "description": "Name of study area",
+            "constraints": {
+              "enum": [
+                "La Molinassa",
+                "Besan",
+                "Bordes de Viros",
+                "Tor",
+                "Tavascan"
+              ]
+            }
+          },
+          {
+            "name": "site_name",
+            "type": "string",
+            "title": "Site name",
+            "description": "Name of study site at which insect was captured",
+            "constraints": {
+              "pattern": "[A-Z]{3}[0-9]{2}"
+            }
+          },
+          {
+            "name": "elevational_band_m",
+            "type": "integer",
+            "title": "Elevational band (m)",
+            "description": "Elevational band in which study site was located (m)",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 3000
+            }
+          },
+          {
+            "name": "latitude_start_n",
+            "type": "number",
+            "title": "Start latitude (N)",
+            "description": "Latitude at start of transect (decimal degrees N)",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 90
+            }
+          },
+          {
+            "name": "longitude_start_e",
+            "type": "number",
+            "title": "Start longitude (E)",
+            "description": "Longitude at start of transect (decimal degrees E)",
+            "constraints": {
+              "minimum": -180,
+              "maximum": 180
+            }
+          },
+          {
+            "name": "elevation_start_m",
+            "type": "number",
+            "title": "Start elevation (m)",
+            "description": "Elevation at start of transect (m)",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 3000
+            }
+          },
+          {
+            "name": "latitude_end_n",
+            "type": "number",
+            "title": "End latitude (N)",
+            "description": "Latitude at end of transect (decimal degrees N)",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 90
+            }
+          },
+          {
+            "name": "longitude_end_e",
+            "type": "number",
+            "title": "End longitude (E)",
+            "description": "Longitude at end of transect (decimal degrees E)",
+            "constraints": {
+              "minimum": -180,
+              "maximum": 180
+            }
+          },
+          {
+            "name": "elevation_end_m",
+            "type": "number",
+            "title": "End elevation (m)",
+            "description": "Elevation at end of transect (m)",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 3000
+            }
+          },
+          {
+            "name": "transect_length_m",
+            "type": "number",
+            "title": "Transect length (m)",
+            "description": "Length of survey transect (m)",
+            "constraints": {
+              "minimum": 90,
+              "maximum": 110
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "surveys",
+      "type": "table",
+      "path": "surveys.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "site_name",
+            "type": "string",
+            "title": "Site name",
+            "description": "Name of study site at which insect was captured",
+            "constraints": {
+              "pattern": "[A-Z]{3}[0-9]{2}"
+            }
+          },
+          {
+            "name": "date_cest",
+            "type": "date",
+            "title": "Date (CEST)",
+            "description": "Date on which insect was captured (CEST)"
+          },
+          {
+            "name": "start_time_cest",
+            "type": "time",
+            "title": "Start time (CEST)",
+            "description": "Start time of survey (CEST)"
+          },
+          {
+            "name": "end_time_cest",
+            "type": "time",
+            "title": "End time (CEST)",
+            "description": "End time of survey (CEST)"
+          },
+          {
+            "name": "method",
+            "type": "string",
+            "title": "Capture method",
+            "description": "Method by which insect was captured",
+            "constraints": {
+              "enum": [
+                "Hand",
+                "Net"
+              ]
+            }
+          },
+          {
+            "name": "method_repeat",
+            "type": "integer",
+            "title": "Capture method repeat",
+            "description": "Integer determining repeat number of capture method during survey",
+            "constraints": {
+              "enum": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "name": "cloud_coverage_start",
+            "type": "integer",
+            "title": "Start cloud coverage",
+            "description": "Cloud coverage at start of survey",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 8
+            }
+          },
+          {
+            "name": "wind_start",
+            "type": "integer",
+            "title": "Start wind",
+            "description": "Wind at start of survey",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "rain_start",
+            "type": "integer",
+            "title": "Start rain",
+            "description": "Rain at start of survey",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "cloud_coverage_end",
+            "type": "integer",
+            "title": "End cloud coverage",
+            "description": "Cloud coverage at end of survey",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 8
+            }
+          },
+          {
+            "name": "wind_end",
+            "type": "integer",
+            "title": "End wind",
+            "description": "Wind at end of survey",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "rain_end",
+            "type": "integer",
+            "title": "End rain",
+            "description": "Rain at end of survey",
+            "constraints": {
+              "minimum": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "vegetation_plots",
+      "type": "table",
+      "path": "vegetation_plots.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "site_name",
+            "type": "string",
+            "title": "Site name",
+            "description": "Name of study site at which insect was captured",
+            "constraints": {
+              "pattern": "[A-Z]{3}[0-9]{2}"
+            }
+          },
+          {
+            "name": "date_cest",
+            "type": "date",
+            "title": "Date (CEST)",
+            "description": "Date on which insect was captured (CEST)"
+          },
+          {
+            "name": "plot_distance_from_start_m",
+            "type": "integer",
+            "title": "Plot distance from start (m)",
+            "description": "Distance of vegetation survey plot from start of survey transect (m)",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 100
+            }
+          },
+          {
+            "name": "percentage_vegetation_cover",
+            "type": "integer",
+            "title": "Percentage vegetation cover",
+            "description": "Percentage of plot covered by vegetation",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 100
+            }
+          },
+          {
+            "name": "percentage_bare_ground",
+            "type": "integer",
+            "title": "Percentage bare ground",
+            "description": "Percentage of plot covered by bare ground",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 100
+            }
+          },
+          {
+            "name": "percentage_rock",
+            "type": "integer",
+            "title": "Percentage rock cover",
+            "description": "Percentage of plot covered by rock",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 100
+            }
+          },
+          {
+            "name": "height_75percent_cm",
+            "type": "integer",
+            "title": "Height 75 percent of vegetation (cm)",
+            "description": "Height of 75 percent of vegetation in plot (cm)",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "max_height_cm",
+            "type": "integer",
+            "title": "Maximum height of vegetation (cm)",
+            "description": "Maximum height of vegetation in plot (cm)",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "density_01",
+            "type": "integer",
+            "title": "Vegetation density point 1",
+            "description": "Vegetation density at point 1 (number of times vegetation touches stick placed in plot corner)",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "density_02",
+            "type": "integer",
+            "title": "Vegetation density point 2",
+            "description": "Vegetation density at point 2 (number of times vegetation touches stick placed in plot corner)",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "density_03",
+            "type": "integer",
+            "title": "Vegetation density point 3",
+            "description": "Vegetation density at point 3 (number of times vegetation touches stick placed in plot corner)",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "density_04",
+            "type": "integer",
+            "title": "Vegetation density point 4",
+            "description": "Vegetation density at point 4 (number of times vegetation touches stick placed in plot corner)",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "density_05",
+            "type": "integer",
+            "title": "Vegetation density point 5",
+            "description": "Vegetation density at point 5 (number of times vegetation touches stick placed in middle of plot)",
+            "constraints": {
+              "minimum": 0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
