@@ -1,4 +1,4 @@
-from frictionless import describe, validate, Package, Field
+from frictionless import describe, validate, Package
 from pprint import pprint
 
 
@@ -268,10 +268,54 @@ def describe_vegetation_plots_resource(resource):
     return resource
 
 
+def describe_site_survey_summary_resource(resource):
+    """Add further information to the metadata schema.
+
+    Return the schema in JSON format."""
+
+    resource.schema.get_field("area").title = "Area"
+    resource.schema.get_field("area").description = "Name of study area"
+    resource.schema.get_field("area").constraints["enum"] = ["La Molinassa", "Besan", "Bordes de Viros", "Tor",
+                                                             "Tavascan"]
+    resource.schema.get_field("site_name").title = "Site name"
+    resource.schema.get_field("site_name").description = "Name of study site at which insect was captured"
+    resource.schema.get_field("site_name").constraints["pattern"] = "[A-Z]{3}[0-9]{2}"
+    resource.schema.get_field("site_figure_name").title = "Site figure name"
+    resource.schema.get_field("site_figure_name").description = "Name of study site as used in manuscript figures"
+    resource.schema.get_field("elevational_band_m").title = "Elevational band (m)"
+    resource.schema.get_field("elevational_band_m").description = "Elevational band in which study site was located (m)"
+    resource.schema.get_field("elevational_band_m").constraints["minimum"] = 0
+    resource.schema.get_field("elevational_band_m").constraints["maximum"] = 3000
+    resource.schema.get_field("number_visits").title = "Number of visits"
+    resource.schema.get_field("number_visits").description = "Number of visits to site"
+    resource.schema.get_field("number_visits").constraints["minimum"] = 0
+    resource.schema.get_field("number_hand_surveys").title = "Number of hand surveys"
+    resource.schema.get_field("number_hand_surveys").description = "Number of surveys conducted by hand at site"
+    resource.schema.get_field("number_hand_surveys").constraints["minimum"] = 0
+    resource.schema.get_field("number_net_surveys").title = "Number of net surveys"
+    resource.schema.get_field("number_net_surveys").description = "Number of surveys conducted with a net at site"
+    resource.schema.get_field("number_net_surveys").constraints["minimum"] = 0
+    resource.schema.get_field("number_individual_orthoptera_recorded").title = "Number of Orthoptera recorded"
+    resource.schema.get_field("number_individual_orthoptera_recorded").description = "Number of individual Orthoptera " \
+                                                                                     "recorded at site"
+    resource.schema.get_field("number_individual_orthoptera_recorded").constraints["minimum"] = 0
+    resource.schema.get_field("species_richness").title = "Species richness"
+    resource.schema.get_field("species_richness").description = "Number of unique taxa recorded at site"
+    resource.schema.get_field("species_richness").constraints["minimum"] = 0
+    resource.schema.get_field("cluster_group").title = "Cluster group"
+    resource.schema.get_field("cluster_group").description = "Number of cluster group to which the site belongs, " \
+                                                             "resulting from the K-means analysis"
+    resource.schema.get_field("cluster_group").constraints["minimum"] = 1
+    resource.schema.get_field("cluster_group").constraints["maximum"] = 5
+
+    return resource
+
+
 def main():
 
     # Create and describe package
-    package = create_package(["observations.csv", "sites.csv", "surveys.csv", "vegetation_plots.csv"])
+    package = create_package(["observations.csv", "sites.csv", "surveys.csv", "vegetation_plots.csv",
+                              "site_survey_summary.csv"])
     package = describe_package(package)
 
     # Create resource descriptions and validate
@@ -291,6 +335,10 @@ def main():
     vegetation_plots_resource = describe_vegetation_plots_resource(vegetation_plots_resource)
     validate_schema(vegetation_plots_resource)
 
+    site_survey_summary_resource = describe_data_file("site_survey_summary.csv")
+    site_survey_summary_resource = describe_site_survey_summary_resource(site_survey_summary_resource)
+    validate_schema(site_survey_summary_resource)
+
     # Add resource descriptions to package resources
     package.get_resource("observations").schema = observations_resource.schema
     package.get_resource("observations").encoding = "utf-8"
@@ -303,6 +351,9 @@ def main():
 
     package.get_resource("vegetation_plots").schema = vegetation_plots_resource.schema
     package.get_resource("vegetation_plots").encoding = "utf-8"
+
+    package.get_resource("site_survey_summary").schema = site_survey_summary_resource.schema
+    package.get_resource("site_survey_summary").encoding = "utf-8"
 
     package_to_json(package, "schema_package.json")
 

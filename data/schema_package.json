@@ -522,6 +522,114 @@
           }
         ]
       }
+    },
+    {
+      "name": "site_survey_summary",
+      "type": "table",
+      "path": "site_survey_summary.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "area",
+            "type": "string",
+            "title": "Area",
+            "description": "Name of study area",
+            "constraints": {
+              "enum": [
+                "La Molinassa",
+                "Besan",
+                "Bordes de Viros",
+                "Tor",
+                "Tavascan"
+              ]
+            }
+          },
+          {
+            "name": "site_name",
+            "type": "string",
+            "title": "Site name",
+            "description": "Name of study site at which insect was captured",
+            "constraints": {
+              "pattern": "[A-Z]{3}[0-9]{2}"
+            }
+          },
+          {
+            "name": "site_figure_name",
+            "type": "string",
+            "title": "Site figure name",
+            "description": "Name of study site as used in manuscript figures"
+          },
+          {
+            "name": "elevational_band_m",
+            "type": "integer",
+            "title": "Elevational band (m)",
+            "description": "Elevational band in which study site was located (m)",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 3000
+            }
+          },
+          {
+            "name": "number_visits",
+            "type": "integer",
+            "title": "Number of visits",
+            "description": "Number of visits to site",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "number_hand_surveys",
+            "type": "integer",
+            "title": "Number of hand surveys",
+            "description": "Number of surveys conducted by hand at site",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "number_net_surveys",
+            "type": "integer",
+            "title": "Number of net surveys",
+            "description": "Number of surveys conducted with a net at site",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "number_individual_orthoptera_recorded",
+            "type": "integer",
+            "title": "Number of Orthoptera recorded",
+            "description": "Number of individual Orthoptera recorded at site",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "species_richness",
+            "type": "integer",
+            "title": "Species richness",
+            "description": "Number of unique taxa recorded at site",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "cluster_group",
+            "type": "integer",
+            "title": "Cluster group",
+            "description": "Number of cluster group to which the site belongs, resulting from the K-means analysis",
+            "constraints": {
+              "minimum": 1,
+              "maximum": 5
+            }
+          }
+        ]
+      }
     }
   ]
 }

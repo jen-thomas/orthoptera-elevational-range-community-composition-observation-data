@@ -64,3 +64,18 @@ density_02: Vegetation density at point 2 (number of times vegetation touches st
 density_03: Vegetation density at point 3 (number of times vegetation touches stick placed in plot corner). Minimum = 0.
 density_04: Vegetation density at point 4 (number of times vegetation touches stick placed in plot corner). Minimum = 0.
 density_05: Vegetation density at point 5 (number of times vegetation touches stick placed in middle of plot). Minimum = 0.
+
+
+site_survey_summary.csv
+Summary of visits, surveys and Orthoptera captured at each site.
+
+area: Name of study area.
+site_name: Name of study site at which insect was captured.
+site_figure_name: Name of study site as used in manuscript figures.
+elevational_band_m: Elevational band in which study site was located (m).
+number_visits: Number of visits to site.
+number_hand_surveys: Number of surveys conducted by hand at site.
+number_net_surveys: Number of surveys conducted with a net at site.
+number_individual_orthoptera_recorded: Number of individual Orthoptera recorded at site.
+species_richness: Number of unique taxa recorded at site.
+cluster_group: Number of cluster group to which the site belongs, resulting from the K-means analysis (Fig. 2).

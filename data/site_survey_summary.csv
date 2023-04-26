@@ -1,0 +1,29 @@
+area,site_name,site_figure_name,elevational_band_m,number_visits,number_hand_surveys,number_net_surveys,number_individual_orthoptera_recorded,species_richness,cluster_group
+Tavascan,TAV08,TAV 1500,1500,5,3,5,255,11,4
+Tavascan,TAV09,TAV 1600,1600,5,3,5,256,12,4
+Tavascan,TAV07,TAV 1800,1800,5,3,5,80,7,1
+Tavascan,TAV06,TAV 1900,1900,5,3,5,33,4,1
+Tavascan,TAV05,TAV 2000,2000,5,3,8,17,4,2
+Tavascan,TAV03,TAV 2100,2100,4,2,6,10,1,2
+Tavascan,TAV01,TAV 2200,2200,3,2,5,5,1,2
+La Molinassa,MOL09,MOL 1800,1800,4,3,4,50,4,4
+La Molinassa,MOL08,MOL 1900,1900,4,3,4,39,9,4
+La Molinassa,MOL06,MOL 2000,2000,4,3,7,62,13,4
+La Molinassa,MOL05,MOL 2100,2100,4,3,7,16,5,3
+La Molinassa,MOL04,MOL 2200,2200,4,3,7,15,5,3
+La Molinassa,MOL03,MOL 2300,2300,4,3,7,12,3,2
+La Molinassa,MOL02,MOL 2400,2400,4,3,7,3,1,5
+La Molinassa,MOL01,MOL 2500,2500,4,3,4,4,1,5
+Tor,TOR10,TOR 1200,1200,3,2,3,35,9,4
+Tor,TOR01,TOR 1500,1500,4,2,4,37,4,5
+Tor,TOR02,TOR 1600,1600,4,2,4,38,8,5
+Tor,TOR09,TOR 1700,1700,4,2,4,119,9,5
+Tor,TOR08,TOR 1800,1800,4,2,4,37,6,5
+Tor,TOR07,TOR 1900,1900,4,2,4,33,3,1
+Tor,TOR06,TOR 2000,2000,5,3,8,24,5,1
+Tor,TOR05,TOR 2100,2100,5,3,8,48,7,1
+Tor,TOR04,TOR 2200,2200,5,3,7,113,8,1
+Tor,TOR03,TOR 2300,2300,5,3,7,70,5,1
+Besan,BES02,VFE 1100a,1100,4,3,4,21,9,5
+Besan,BES01,VFE 1200,1200,4,3,4,115,15,5
+Bordes de Viros,BOR02,VFE 1100b,1100,3,2,3,59,8,5

@@ -13,6 +13,8 @@ The initial release of this dataset is available on Zenodo with the DOI: [10.528
 * ```surveys.csv``` contains metadata about each of the surveys.
 * ```vegetation_plots.csv``` contains data from the vegetation surveys which were undertaken at each site.
 
+* ```site_survey_summary.csv``` contains a summary of the number of visits and surveys to each site, as well as the number of Orthoptera captured. This is compiled by summarising the raw data which is found in the files listed above.
+
 ## Data description
 
 ```data_file_descriptions.txt``` contains a plain text description of the fields in the data files. For more detailed descriptions of the field type and constraints, for example, see ```schema_package.JSON```.
