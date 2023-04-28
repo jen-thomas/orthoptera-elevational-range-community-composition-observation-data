@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: 'Orthoptera observations, Pyrenees 2021'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Jen
+    family-names: Thomas
+    email: jen@falciot.net
+    orcid: 'https://orcid.org/0000-0002-5986-7026'
+  - given-names: Simon
+    name-particle: T.
+    family-names: Segar
+    affiliation: Harper Adams University
+    orcid: 'https://orcid.org/0000-0001-6621-9409'
+  - given-names: Andrew
+    name-particle: 'J. '
+    family-names: Cherrill
+    affiliation: Harper Adams University
+    orcid: 'https://orcid.org/0000-0001-9788-2211'
+identifiers:
+  - type: other
+    value: >-
+      https://github.com/jen-thomas/orthoptera-elevational-range-community-composition-observation-data/releases/tag/v2.0.0
+    description: GitHub release of manuscript version
+repository-code: >-
+  https://github.com/jen-thomas/orthoptera-elevational-range-community-composition-observation-data
+abstract: >-
+  Observations of Orthoptera and associated metadata, which
+  were collected as part of a project to investigate the
+  relationship between elevation and the elevational range
+  over which Orthoptera are found, in the Pyrenees.
+  Orthoptera were recorded in the Catalan Pyrenees in the
+  summer of 2021 at three different locations. This
+  repository contains the data and metadata resulting from
+  these surveys, as well as human and machine-readable
+  descriptions of the data files.
+keywords:
+  - Orthoptera
+  - Community composition
+  - Elevational range
+  - Species richness
+  - Pyrenees
+license: CC-BY-4.0
+version: 2.0.0
+date-released: '2023-04-28'
