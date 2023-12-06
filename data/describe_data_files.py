@@ -32,7 +32,16 @@ def describe_package(package):
         "email": "jen@falciot.net",
         "path": "https://falciot.net",
         "role": "author"
-    }]
+    },
+        {
+            "title": "Simon S. Segar",
+            "role": "author"
+        },
+        {
+            "title": "Andrew T. Cherrill",
+            "role": "author"
+        },
+    ]
     package.version = "1.0.0"
 
     return package
