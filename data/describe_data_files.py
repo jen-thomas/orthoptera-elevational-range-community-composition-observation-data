@@ -34,11 +34,11 @@ def describe_package(package):
         "role": "author"
     },
         {
-            "title": "Simon S. Segar",
+            "title": "Simon T. Segar",
             "role": "author"
         },
         {
-            "title": "Andrew T. Cherrill",
+            "title": "Andrew J. Cherrill",
             "role": "author"
         },
     ]
