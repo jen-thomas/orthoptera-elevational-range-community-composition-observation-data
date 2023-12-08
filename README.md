@@ -1,4 +1,4 @@
-# Investigating the relationship of elevation and Orthoptera species richness, elevational range and community composition: observation data and metadata.
+# Investigating the relationship of elevational range and species richness of Orthoptera in the Pyrenees: observation data and metadata.
 
 This repository contains the observations of Orthoptera and associated metadata, which were collected as part of a project to investigate the relationship between elevation and the elevational range over which Orthoptera are found, in the Pyrenees.
 
