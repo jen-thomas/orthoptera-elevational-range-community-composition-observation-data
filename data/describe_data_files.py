@@ -18,11 +18,11 @@ def describe_package(package):
     Return package."""
 
     package.name = "orthoptera_pyrenees_2021"
-    package.title = "Orthoptera elevational range, species richness and community composition in the Pyrenees"
+    package.title = "Orthoptera elevational range and species richness along an elevational gradient in the Pyrenees"
     package.description = "Data and metadata for the article, 'Species richness of Orthoptera declines with " \
                           "elevation while elevational range of individual species peaks at mid elevation'"
     package.keywords = ["Orthoptera", "Rapoport's Rule", "species richness", "elevational gradient",
-                        "elevational range", "community composition"]
+                        "elevational range"]
     package.licenses = [{"name": "CC BY 4.0",
                          "path": "https://creativecommons.org/licenses/by/4.0/",
                          "title": "Creative Commons Attribution 4.0 International (CC BY 4.0)"}]
