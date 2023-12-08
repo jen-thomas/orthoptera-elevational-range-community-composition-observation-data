@@ -22,7 +22,7 @@ authors:
 identifiers:
   - type: other
     value: >-
-      https://github.com/jen-thomas/orthoptera-elevational-range-community-composition-observation-data/releases/tag/v2.0.0
+      https://github.com/jen-thomas/orthoptera-elevational-range-community-composition-observation-data/releases/tag/v2.0.1
     description: GitHub release of manuscript version
 repository-code: >-
   https://github.com/jen-thomas/orthoptera-elevational-range-community-composition-observation-data
@@ -38,11 +38,10 @@ abstract: >-
   descriptions of the data files.
 keywords:
   - Orthoptera
-  - Community composition
   - Elevational range
   - Species richness
   - Pyrenees
 license: CC-BY-4.0
 commit: bf230164e933ebf1647bf894829632e580ee98e5
-version: 2.0.0
-date-released: '2023-04-28'
+version: 2.0.1
+date-released: '2023-12-08'
