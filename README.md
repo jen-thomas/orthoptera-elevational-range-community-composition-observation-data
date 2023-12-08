@@ -12,7 +12,6 @@ The initial release of this dataset is available on Zenodo with the DOI: [10.528
 * ```sites.csv``` contains the metadata about each of the sites at which Orthoptera were sighted.
 * ```surveys.csv``` contains metadata about each of the surveys.
 * ```vegetation_plots.csv``` contains data from the vegetation surveys which were undertaken at each site.
-
 * ```site_survey_summary.csv``` contains a summary of the number of visits and surveys to each site, as well as the number of Orthoptera captured. This is compiled by summarising the raw data which is found in the files listed above.
 
 ## Data description
@@ -28,3 +27,9 @@ This directory contains the `GPX` files for each of the surveyed transects. Each
 This repository contains a data package, which consists of the four data files plus a machine-readable description of these files, ```schema_package.json```. The Frictionless website has a description of the structure and meaning of the [Frictionless Data Package schema](https://specs.frictionlessdata.io/guides/data-package/) and [how to work with it](https://framework.frictionlessdata.io). 
 
 ```describe_data_files.py``` creates the Frictionless Data Package and describes it, using the [Frictionless Framework tools](https://framework.frictionlessdata.io). The packages that are required to run this file are listed in ```requirements.txt```.
+
+## Releases
+
+* v2.0.1 - update authors in data package description (manuscript submission).
+* v2.0.0 - major changes to analysis methods (initial manuscript submission).
+* v1.0.0 - initial release.

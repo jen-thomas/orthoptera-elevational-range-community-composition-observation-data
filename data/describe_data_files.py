@@ -42,7 +42,7 @@ def describe_package(package):
             "role": "author"
         },
     ]
-    package.version = "1.0.0"
+    package.version = "2.0.1"
 
     return package
 
