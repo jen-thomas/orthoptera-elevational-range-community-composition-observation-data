@@ -17,6 +17,14 @@
       "email": "jen@falciot.net",
       "path": "https://falciot.net",
       "role": "author"
+    },
+    {
+      "title": "Simon S. Segar",
+      "role": "author"
+    },
+    {
+      "title": "Andrew T. Cherrill",
+      "role": "author"
     }
   ],
   "keywords": [
@@ -27,7 +35,7 @@
     "elevational range",
     "community composition"
   ],
-  "version": "1.0.0",
+  "version": "2.0.1",
   "resources": [
     {
       "name": "observations",
